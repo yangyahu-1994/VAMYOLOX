@@ -7,8 +7,10 @@ Our paper has been submitted to IEEE Sensors Journal for review. This code will 
 ## Image detection results
 - Small object detection
 <img src="assets/img_1.jpg" >
+
 - Dense object detection
 <img src="assets/img_2.jpg" >
+
 - Image covering a large area
 <img src="assets/img_4.jpg" >
 
@@ -21,7 +23,7 @@ You can watch the video detection effect of VAMYOLOX through [bilibili](https://
 ## Introduction
 Based on [YOLOX](https://arxiv.org/abs/2107.08430), we propose an anchor-free detector specifically for UAV optical object detection, called VAMYOLOX. While balancing accuracy, speed and ease of deployment, VAMYOLOX can well solve the problems of dramatic scale changes, high density and large coverage of objects in UAV object detection scenarios.
 
-Like YOLOX, this implementation of VAMYOLOX is also based on PyTorch..
+Like YOLOX, this implementation of VAMYOLOX is also based on PyTorch.
 
 
 ## Benchmark
