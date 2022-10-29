@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # VAMYOLOX
 Our paper has been submitted to IEEE Sensors Journal for review. This code will be released once the paper is accepted.
 =======
@@ -160,5 +159,3 @@ python -m yolox.tools.eval -n  yolox-s -c vamyolox_s.pth -b 1 -d 1 --conf 0.001 
 Thanks to their great works:
 
 - [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
-
->>>>>>> initial commit
