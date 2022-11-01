@@ -1,4 +1,4 @@
-# VAMYOLOX
+# VAMYOLOX: an Accurate and Efficient Object Detection Algorithm Based on Visual Attention Mechanism for UAV Optical Sensors
 
 <div align="center"><img src="assets/logo.jpg" width="350"></div>
 <img src="assets/vamyolox.jpg" >
