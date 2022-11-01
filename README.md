@@ -1,5 +1,5 @@
 # VAMYOLOX
-=======
+
 <div align="center"><img src="assets/logo.jpg" width="350"></div>
 <img src="assets/vamyolox.jpg" >
 
