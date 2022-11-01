@@ -1,5 +1,4 @@
 # VAMYOLOX
-Our paper has been submitted to IEEE Sensors Journal for review. This code will be released once the paper is accepted.
 =======
 <div align="center"><img src="assets/logo.jpg" width="350"></div>
 <img src="assets/vamyolox.jpg" >
