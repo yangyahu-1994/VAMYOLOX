@@ -1,4 +1,4 @@
-# VAMYOLOX: an Accurate and Efficient Object Detection Algorithm Based on Visual Attention Mechanism for UAV Optical Sensors
+# [VAMYOLOX: an Accurate and Efficient Object Detection Algorithm Based on Visual Attention Mechanism for UAV Optical Sensors](https://ieeexplore.ieee.org/document/9942946)
 
 <div align="center"><img src="assets/logo.jpg" width="350"></div>
 <img src="assets/vamyolox.jpg" >
