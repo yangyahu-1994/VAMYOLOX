@@ -24,6 +24,12 @@ Based on [YOLOX](https://arxiv.org/abs/2107.08430), we propose an anchor-free de
 
 Like YOLOX, this implementation of VAMYOLOX is also based on PyTorch.
 
+## Implementation details
+- CUDA 11.1
+- CUDNN 8.0
+- PyTorch 1.9
+- Python 3.8
+
 
 ## Benchmark
 Note: All the pre-trained VAMYOLOX weight links lead to a Baidu Netdisk address with the extraction code: gpx1.
